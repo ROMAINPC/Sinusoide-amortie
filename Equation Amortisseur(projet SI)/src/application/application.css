@@ -1,0 +1,17 @@
+.default-color0.chart-line-symbol { 
+    -fx-background-radius: 0.0px;
+    -fx-padding: 0.0px;
+}
+.chart-series-line {    
+    -fx-stroke-width: 4px;
+    -fx-stroke: #00ff00;
+}
+.chart-horizontal-grid-lines {
+    -fx-stroke: #000000;
+}
+.chart-plot-background {
+    -fx-background-color: #333333;
+}
+.chart-vertical-grid-lines {
+    -fx-stroke: #000000;
+}
